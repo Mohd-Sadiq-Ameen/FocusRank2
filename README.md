@@ -54,8 +54,8 @@ Yes, the core features are free. Premium plans (advanced analytics, private lead
 ## 🛠️ Tech Stack
 
 - **Frontend:** React + Tailwind CSS  
-- **Backend:** Flask (Python)  
-- **Database:** PostgreSQL  
+- **Backend:** Nodejs , Expressjs  
+- **Database:** MongoDB
 - **Video Processing:** FFmpeg / YouTube Data API  
 - **Authentication:** JWT
 
